@@ -1,0 +1,54 @@
+Project setup:
+
+Step 1. Identify a question that you want to investigate. This can be from the perspective of biology or medicine or completely unrelated.
+Important: Do not use confidential data that is not be shared outside of a e.g. a lab group.
+
+Step 2. Formulate your question and outline what you want to do and let us check on it.
+
+Step 3. Start your project. Hand in latest on 23 April 2023 11.59PM.
+
+Step 4. Meeting with us to discuss your code. 15min slot between 8-12 May.
+
+
+What do you have to hand in?
+
+1.) all required input files
+2.) script(s) (or Jupyter Notebook file) including description & explanation of your code using #
+3.) if you created intermediated files that you had to modify outside of your script(s) (e.g. if you used multiple smaller scripts and modified output of script 1 using commands from lecture 1 or 2 before it went into script 2) please hand in your code for this and all intermediate files
+
+Some side notes:
+
+-to pass your code needs to work as you have intended
+-We should be able to get it running based on your description
+-we will not check efficiency or simplicity
+-use what you know (you do not have to implement all applications we introduced)
+-our main goal is that you understood what you have done
+
+
+You can either outline a project of your own or take one of those that we provide you in studIP.
+
+How to share your files (note that this will be publicly available; do not use confidential data).
+
+1.) Go here:
+https://github.com/
+
+2.) Sign up with an account.
+3.) Log in.
+4.) Click on "Repositories" on the top part of the window.
+5.) Click on "New" on top right. (Green button).
+6.) Give it a name under. "Repository name"
+7.) Check the button "Add a README file".
+8.) Click on "Create repository".
+9.) You can use "add files" on top of the page to add your code or data.
+10.) Send us your github link
+
+You can find more information here:
+
+https://docs.github.com/en/get-started/quickstart/hello-world
+https://github.com
+
+
+
+
+
+ 
